@@ -10,7 +10,7 @@ import time
 import requests
 import csv
 
-apikey = ''  #### ENTER API KEY HERE ####
+apikey = '25cd02510095485dcde4069b8c99c5844baf174a4fca3a58a38c848543848aaa'  #### ENTER API KEY HERE ####
 
 requests.urllib3.disable_warnings()
 client = requests.session()
